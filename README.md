@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yovitsa
-- 👀 I’m interested in Python, SQL, MongoDB and PowerBI
+- 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently CIT student at British Columbia Institute of Technology
-- 💞️ I’m looking to collaborate on different Python and DB related projects that would help me improve my skills
+- 💞️ I’m looking to collaborate on different Python and Database related projects that would help me improve my skills
 - 📫 How to reach me 
-- 😄 Pronouns:
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
 <!---
