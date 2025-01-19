@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @yovitsa-- 
+## 👋 Hi, I’m @yovitsa 
 ### I'm a CIT student at the British Columbia Institute of Technology.
 
 ### 🌱 I'm interested in System Administration, Data Analytics, and DevOps.
